@@ -1,6 +1,8 @@
 # CLI Template 
-> This is a simple cli tool template with javascript 
-it offers:
+
+<p> This is a simple cli tool template written with javascript</p>
+<p>It does not have any specific functionality (yet but in another repo) but offers by defaut:</p>
+
 - A binary
 - The ability to process CLI arguments
 - config validation
